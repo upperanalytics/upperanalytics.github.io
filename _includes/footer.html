@@ -4,7 +4,8 @@
                 <div class="col-md-4">
                 </div>
                 <div class="col-md-4">
-                   <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}
+                   <span class="copyright">{{ site.title }} {{ 'now' | date: "%Y" }}
+				   <br>
 						{% for dire in site.address %}
 							{{ dire.line }}
 						{% endfor %}

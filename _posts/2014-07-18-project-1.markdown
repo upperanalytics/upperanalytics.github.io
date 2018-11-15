@@ -1,15 +1,23 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Banca
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img: sol_banca.jpg
+thumbnail: sol_banca_thumb.jpg
+
+description: Nuestras soluciones analíticas apoyan a los bancos a lograr un mayor conocimiento de sus clientes y de su potencial valor futuro, resultando en un valioso aporte para las estrategias de captación y retención de clientes, así como una palanca para impulsar la venta de productos financieros
+
+description-2: En Upper Analytics apoyamos a la banca en cuatro ámbitos principales
+list-1: Captación de clientes
+list-2: Gestión de los servicios y canales de distribución
+list-3: Relacionamiento comercial con clientes
+list-4: Retención de clientes
+
+description-3: Algunas de las soluciones que diseñamos para los bancos
+list1-1: Segmentación de clientes
+list1-2: Medición del potencial valor futuro de los clientes
+list1-3: Modelos predictivos para medir la retención y fuga de clientes
+list1-4: Análisis para campañas de venta cruzada
+
 
 ---

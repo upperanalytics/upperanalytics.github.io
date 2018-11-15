@@ -1,15 +1,22 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Energía
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img: sol_energia.jpg
+thumbnail: sol_energia_thumb.jpg
+
+description: Desarrollamos modelos de analítica predictiva enfocados en optimizar el mantenimiento de activos, para anticiparse a la falla de equipos estratégicos, logrando una mayor eficiencia en la generación, transmisión y distribución energética
+
+description-2: Proponemos pruebas de concepto para empresas de energías renovables y compañías eléctricas, que buscan
+list-1: Reducir detenciones no planificadas por falla de equipos
+list-2: Disminuir el gasto operacional
+list-3: Monitorear el funcionamiento de los equipos estratégicos
+list-4: Incrementar la visibilidad y confiabilidad del sistema
+
+description-3: 
+list1-1: 
+list1-2: 
+list1-3: 
+list1-4: 
 
 ---

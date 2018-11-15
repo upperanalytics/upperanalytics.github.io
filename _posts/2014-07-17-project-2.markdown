@@ -1,15 +1,22 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Retail
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img: sol_retail.jpg
+thumbnail: sol_retail_thumb.jpg
+
+description: Integramos los datos de las cadenas de retail, tanto de fuentes internas como externas, para desarrollar soluciones analíticas que ayuden a identificar patrones de comportamiento de compra, permitiendo realizar acciones personalizadas y basadas en el contexto de cada canal, categoría y segmento de clientes
+
+description-2: Apoyamos a las empresas de retail en todas las etapas de la cadena de valor
+list-1: Marketing y planificación
+list-2: Abastecimiento y surtido de tiendas
+list-3: Ventas y servicio al cliente
+list-4: 
+
+description-3: Nuestras soluciones analíticas para retail incluyen
+list1-1: Análisis de canasta de compra
+list1-2: Recomendación de productos para marketing personalizado
+list1-3: Optimización de surtidos
+list1-4: Optimización de la fuerza de ventas
 
 ---
