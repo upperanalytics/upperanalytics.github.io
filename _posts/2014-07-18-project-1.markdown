@@ -7,7 +7,7 @@ thumbnail: sol_banca_thumb.jpg
 
 description: Nuestras soluciones analíticas apoyan a los bancos a lograr un mayor conocimiento de sus clientes y de su potencial valor futuro, resultando en un valioso aporte para las estrategias de captación y retención de clientes, así como una palanca para impulsar la venta de productos financieros
 
-description-2: En Upper Analytics apoyamos a la banca en cuatro ámbitos principales
+description-2: Apoyamos a la banca en cuatro ámbitos principales
 list-1: Captación de clientes
 list-2: Gestión de los servicios y canales de distribución
 list-3: Relacionamiento comercial con clientes
