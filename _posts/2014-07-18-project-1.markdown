@@ -17,7 +17,7 @@ description-3: Algunas de las soluciones que diseñamos para los bancos
 list1-1: Segmentación de clientes
 list1-2: Medición del potencial valor futuro de los clientes
 list1-3: Modelos predictivos para medir la retención y fuga de clientes
-list1-4: Análisis para campañas de venta cruzada
+list1-4: Análisis de oportunidades de cross-sell y up-sell
 
 
 ---
